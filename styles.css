@@ -10,11 +10,11 @@ body {
   background-color: white;
 }
 .navbar-brand {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 1.5em;
+  font-family: Palatino, serif; 
+  font-size: 2.1em;
 }
 .hero {
-  background: #c1dcdc;
+  background: #fadadd;
   padding: 2em;
   border-radius: 1em;
 }
@@ -28,10 +28,10 @@ img {
   mix-blend-mode: ;
 }
 .btn {
-  background: #c1dcdc;
+  background: #fadadd;
 }
 .aboutitem {
-  background: #c1dcdc;
+  background: #fadadd;
 }
 .sell {
   display: grid;
@@ -43,7 +43,7 @@ img {
   align-items: center;
 }
 .hero2 {
-  background-color: #c1dcdc;
+  background-color: #fadadd;
   padding: 1em;
 }
 .bestsell {
